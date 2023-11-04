@@ -1,0 +1,19 @@
+<div class="contenedor">
+  <h1>Trabajos prácticos Redes 2023</h1>
+
+  <div class="gallery">
+    {{#grupos}}
+    <a class="link-principal" href="./grupo-{{ id }}">
+      <div class="image">
+        <img src="./grupo-{{ id }}/{{ imagen }}" />
+        <div class="author">
+          <p class="titulo-trabajo">{{ descripcion }}</p>
+          {{#alumnes}}
+          <p>{{.}}</p>
+          {{/alumnes}}
+        </div>
+      </div>
+    </a>
+    {{/grupos}}
+  </div>
+</div>
