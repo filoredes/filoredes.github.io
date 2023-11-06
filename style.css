@@ -32,7 +32,6 @@ h1 {
     text-align: center;
     background: white;
     margin: 32px auto;
-    width: 600px;
     padding: 32px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Modify the box-shadow on hover */
 }
