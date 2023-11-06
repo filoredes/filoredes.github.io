@@ -2,7 +2,6 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
     height: 100%;
     background-color: #bd7f4e;
     background-image: url('./board-bg.jpg');
@@ -29,13 +28,19 @@ p {
 }
 
 h1 {
+    box-sizing: border-box;
     text-align: center;
     background: white;
     margin: 32px auto;
     padding: 32px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Modify the box-shadow on hover */
+    max-width: min(500px, calc(100vw - 64px));
+    box-shadow: 0 8px 8px 4px rgba(0, 0, 0, 0.2);
 }
 
+h1 small{
+    display:block;
+    font-size: 0.5em;;
+}
 
 .titulo-trabajo {
     font-weight: 600;
