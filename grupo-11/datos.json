@@ -1,0 +1,56 @@
+{
+    "integrantes": [
+        {
+            "id": "01",
+            "nombre": "Bela Lugosi",
+            "profesion": "actor",
+            "edad": 52,
+            "nacionalidad": "hungaro y estadounidense",
+            "actores colegas": "décadas de Old Hollywood",
+            "imagen": "./tumblr_8d4129f6ce9779f7b5ef8e1e37d1288f_08190f86_1280.jpg",
+            "detalle_extendido": "<p>Nació 1882 en Lugoj, ciudad de la región de Banat ubicada hoy día en Rumania, pero en aquel momento perteneciente al Imperio austro-húngaro. Era el más pequeño de los cuatro hijos de un empleado bancario. Su padre era húngaro y su madre serbia.</p><p>Lugosi comenzó su carrera como actor en Europa, trabajando en distintas obras de Shakespeare.</p><p>Durante la Primera Guerra Mundial participó como teniente de infantería y tras la contienda formó parte activa de la izquierda de su país y fundó el sindicato de actores. En 1917 contrajo matrimonio con Ilona Szmik, de la que se separaría en 1920.</p><p>Tuvo que exiliarse debido a su actividad política, primero a Alemania en 1919 y posteriormente, abandonando Europa, a los Estados Unidos. Allí consiguió el papel de su vida, el del conde Drácula, que interpretó primero en los teatros de Broadway en la obra Drácula (1927) y en diversas giras y que posteriormente llevó a la pantalla de la mano de Tod Browning en Drácula de 1931.</p>",
+            "detalle_extendido2": "Lugosi comenzó su carrera como actor en Europa, trabajando en distintas obras de Shakespeare. Fundó el sindicato de actores, y en Estados Unidos consiguió el papel del conde Drácula, que interpretó primero en los teatros de Broadway en la obra Drácula (1927) y en diversas giras y que posteriormente llevó a la pantalla de la mano de Tod Browning en Drácula de 1931.",
+            "wikipedia": "https://es.wikipedia.org/wiki/B%C3%A9la_Lugosi"
+        },
+        {
+            "id": "02",
+            "nombre": "Boris Karloff",
+            "profesion": "actor",
+            "edad": 47,
+            "nacionalidad": "britanico",
+            "actores colegas":"décadas de Old Hollywood",
+            "detalle_extendido": "<p>Karloff participó en numerosas películas mudas, antes de aparecer como el monstruo de Frankenstein en Frankenstein (1931), la película que le convirtió en estrella y que rodó gracias a que Béla Lugosi rechazó el papel.</p>", 
+            "imagen": "./Boris Karloff.jpg",
+            "wikipedia": "https://es.wikipedia.org/wiki/Boris_Karloff"
+        },
+        {
+
+            "id": "03",
+            "nombre": "Maila Nurmi",
+            "profesion": "actriz",
+            "alias": "Vampira",
+            "edad": 37,
+            "nacionalidad": "finlandesa-estadounidense",
+            "actores colegas":"décadas de Old Hollywood",
+            "detalle_extendido": "<p>Creadora del personaje de la década de 1950 Vampira. Se dice además que fue despedida por Mae West de la obra de Broadway de 1944 titulada Catherine Was Great porque West pensó que podía eclipsarla.</p>", 
+            "imagen": "./a9e1b55e35322d323548be95d10f88c9.jpg",
+            "wikipedia": "https://es.wikipedia.org/wiki/Maila_Nurmi"
+        },
+        {
+            "id": "04",
+            "nombre": "Vincent Price",
+            "profesion": "actor",
+            "edad": 48,
+            "nacionalidad": "estadounidense",
+            "actores colegas":"décadas de Old Hollywood",
+            "detalle_extendido": "<p>Su primer rol dentro de una película de terror fue en Tower of London (1939), donde actuó junto a Boris Karloff, famoso por haber interpretado al monstruo de Frankenstein en 1931.</p>", 
+            "imagen": "./price.jpg",
+            "wikipedia": "https://es.wikipedia.org/wiki/Vincent_Price"
+        }
+    ],
+    "Peliculas en colaboracion": [
+        "The Black Cat",
+        "Plan 9 from outer space",
+        "The Raven"
+    ]
+}

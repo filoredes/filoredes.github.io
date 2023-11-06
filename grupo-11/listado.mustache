@@ -1,0 +1,37 @@
+<div class="contenedor">
+  <h1>Biografias</h1>
+  <p>
+    ¡Bienvenido a Biografias de actores del género terror de las décadas de Old
+    Hollywood!
+  </p>
+  <p>
+    Aquí se encuentra una selección de actores que han dejado su paso en el
+    mundo cinematográfico y en el género del terror
+  </p>
+  
+  <ul>
+    {{#integrantes}}
+    <li>
+      <a href="./detalle.html?id={{id}}">{{nombre}}</a>
+    </li>
+    {{/integrantes}}
+  </ul>
+  
+  <img src="./Collage actores terror old hollywood.jpg" />
+  
+  <h2>Peliculas en colaboracion</h2>
+  
+  <p>
+    Los maestros del terror han tenido crossovers a lo largo de sus carreras, ya
+    sea con sus personajes por los que son reconocidos e incluso con otros
+    actores colegas.
+  </p>
+  
+  <h3>Actores colegas: décadas de Old Hollywood</h3>
+  
+  <ul>
+    {{#Peliculas en colaboracion}}
+    <li>{{.}}</li>
+    {{/Peliculas en colaboracion}}
+  </ul>
+</div>

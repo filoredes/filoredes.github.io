@@ -1,12 +1,40 @@
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #bd7f4e;
+    background-image: url('./board-bg.jpg');
+}
+
+a.link-principal {
+    text-decoration: none;
+    margin: 16px;
+    padding: 0;
+    box-shadow: 0 8px 4px rgba(0, 0, 0, 0.2);
+    cursor: pointer; /* Change cursor to a pointer on hover for interactivity indication */
+    transition: box-shadow 0.3s ease-in-out; /* Add a transition for smooth hover effect */
+}
+a.link-principal:hover {
+    box-shadow: 0 10px 8px 8px rgba(0, 0, 0, 0.3); /* Modify the box-shadow on hover */
+    cursor: pointer; /* Change cursor to a pointer on hover for interactivity indication */
+}
+
+
+
+p {
     margin: 0;
     padding: 0;
 }
 
 h1 {
     text-align: center;
+    background: white;
+    margin: 32px auto;
+    width: 600px;
+    padding: 32px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Modify the box-shadow on hover */
 }
 
 
@@ -23,15 +51,14 @@ h1 {
 }
 
 .image {
-    margin: 10px;
     border: 1px solid #ccc;
     padding: 10px;
     background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
     width: 300px;
     height: 400px;
 }
+
 
 .image img {
     width: 100%; /* Make the image cover the entire container width */

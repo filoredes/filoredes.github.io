@@ -1,0 +1,84 @@
+{
+    "titulo": "Pasteleria, Viennoiserie y Boulangerie",
+    "pasteleria":[
+        {
+            "id": "1",
+            "nombre": "Macarron",
+            "cobertura": "nada",
+            "relleno": ["chocolate", "vanilla"],
+            "wiki": "https://en.wikipedia.org/wiki/Macaroni",
+            "imagen": "macarrones1.png"
+        },
+        {
+            "id": "2",
+            "nombre": "Lingot chocolat",
+            "cobertura": "crema chantilly de chocolate",
+            "relleno": ["chocolate", "vanilla"],
+            "wiki": "https://www.pressreader.com/argentina/mia-e449/20221207/282406993382762",
+            "imagen": "lingtodechocolate2.png"
+                
+        },
+        {
+            "id": "3",
+            "nombre": "Bourdaloue aux pommes",
+            "cobertura": "peras confitadas",
+            "relleno": ["masa sucreé con un colchon de crema de almendras"],
+            "wiki": "https://chefsimon.com/gourmets/virginie-et-fabien/recettes/tarte-aux-pommes-facon-bourdaloue",
+            "imagen": "bourl.jpg"
+
+        },
+        {
+            "id": "4",
+            "nombre": "Éclar chocolat",
+            "cobertura": "ganache de chocolate",
+            "relleno": ["pate a choux con un suave chocolate"],
+            "wiki": "https://www.delifrance.com/es/eclair-chocolate.html",
+            "imagen":"eclar.png"
+
+        },
+        {
+            "id": "5",
+            "nombre": "Tartelette citrón",
+            "cobertura": "curd de limon",
+            "relleno": ["Masa sucreé con una gruesa capa de crema de almendras"],
+            "wiki": "https://www.clarin.com/recetas/pasteleria/tarte-citron_7_JGeT9jnSuY.html",
+            "imagen": "manzanas.png"
+
+        },
+        {
+            "id": "6",
+            "nombre": "Croissant",
+            "cobertura": ["espinaca bechamel queso parmesano", "jamon cocido bechamel queso parmesano"],
+            "relleno": ["chocolate", "vanilla"],
+            "wiki": "https://en.wikipedia.org/wiki/Croissant",
+            "imagen": "croisy.png"
+
+        },
+        {
+            "id": "7",
+            "nombre": "Pain au chocolat",
+            "cobertura": "No tiene",
+            "relleno": ["chocolate semi amargo"],
+            "wiki": "https://fr.wikipedia.org/wiki/Pain_au_chocolat",
+            "imagen": "pain.jpg"
+        },
+        {
+            "id": "8",
+            "nombre": "Kougin amonn pistache",
+            "cobertura": "No tiene",
+            "relleno": ["Manteca y azucar"],
+            "wiki": "https://www.davidlebovitz.com/larnicol-kouign-amann-in-paris/",
+            "imagen": "kaugin.jpg"
+
+        },
+        {
+            "id": "9",
+            "nombre": "Canelé",
+            "cobertura": "Crocante",
+            "relleno": ["licor  textura humeda"],
+            "wiki": "https://es.wikipedia.org/wiki/Canel%C3%A9",
+            "imagen": "canele.jpg"
+
+        }
+    ]
+}

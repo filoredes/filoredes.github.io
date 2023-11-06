@@ -1,39 +1,45 @@
 {
-  "titulo": "Listado de bandas",
+  "titulo": "Listado de bandas de rock nacional",
   "descripcion": "Este listado contiene información acerca de algunas de las bandas argentinas de rock más influyentes.",
   "bandas de rock nacional": [
     {
       "id": "1",
-      "nombre": "La Renga",
-      "añoCreacion": "1988",
-      "imagen": "./la renga.jpg",
-      "integrantes": [
-        "Gustavo Chizzo Nápoli",
-        "Gabriel Tete Iglesias",
-        "Jorge Tanque Iglesias",
-        "Manuel Manu Varela"
-      ],
-      "generos": ["Hard rock", "blues rock", "stoner rock", "heavy metal"]
+      "nombre": "Sui Generis",
+      "añoCreacion": "1969",
+      "imagen": "./sui generis.jpg",
+      "integrantes": ["Charly García", "Nito Mestre"],
+      "generos": ["rock", "rock progresivo", "folk rock"]
     },
     {
       "id": "2",
       "nombre": "Patricio Rey y sus Redonditos de Ricota",
       "añoCreacion": "1976",
       "imagen": "./pr.jpg",
-      "integrantes": [
-        "Indio Solari",
-        "Skay Beilinson",
-        "Semilla Bucciarelli",
-        "Sergio Dawi",
-        "Walter Sidotti"
-      ],
+      "integrantes": ["Indio Solari", "Skay Beilinson", "Semilla Bucciarelli", "Sergio Dawi", "Walter Sidotti"],
       "generos": [
-        "Blues rock",
+        "blues rock",
         "hard rock",
         "post-punk",
         "new wave",
         "rock alternativo"
       ]
+    },
+    {
+      "id": "3",
+      "nombre": "Serú Girán",
+      "añoCreacion": "1978",
+      "imagen": "./seru giran.jpg",
+      "integrantes": ["Charly García", "Pedro Aznar", "David Lebón", "Oscar Moro"],
+      "generos": ["rock progresivo", "rock nacional", "art rock", "pop progresivo", "jazz-rock"]
+
+    },
+    {
+      "id": "4",
+      "nombre": "Sumo",
+      "añoCreacion": "1981",
+      "imagen": "./sumo.jpg",
+      "integrantes": ["Luca Prodan", "Germán Daffunchio", "Ricardo Mollo", "Diego Arnedo", "Alberto Troglio", "Roberto Pettinato"],
+      "generos": ["post-punk", "new wave", "reggae"]
     }
   ]
 }

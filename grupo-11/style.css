@@ -1,0 +1,41 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background: goldenrod;
+}
+
+h1 {
+  text-align: center;
+}
+
+.contenedor {
+  max-width: 1500px;
+  padding: 32px;
+  margin: 20px auto;
+  background: #e4dd834f;
+  border: 5px solid black;
+}
+
+img {
+  width: 100%;
+  border: 1px solid;
+  display: block;
+  margin: 0 auto;
+}
+.imagen-detalle {
+  width: 300px;
+  float: left;
+  margin: initial;
+  margin-right: 16px;
+}
+ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+.columnas {
+  display: flex;
+}

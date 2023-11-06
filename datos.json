@@ -36,6 +36,13 @@
       "descripcion": "Guía turística Roma"
     },
     {
+      "id": "6",
+      "imagen": "6303770328ad2.jpg",
+      "grupo": "Grupo 6",
+      "alumnes": ["Rocío Soledad Suárez", "Bárbara Sofía Nuñez"],
+      "descripcion": "Le Jardin secret: Gontran Cherrier"
+    },
+    {
       "id": "8",
       "imagen": "christopher-nolan.jpg",
       "grupo": "Grupo 8",
@@ -55,6 +62,13 @@
       "grupo": "Grupo 10",
       "alumnes": ["Cecilia Sindona"],
       "descripcion": "Reino Fungi"
+    },
+    {
+      "id": "11",
+      "imagen": "Collage actores terror old hollywood.jpg",
+      "grupo": "Grupo 11",
+      "alumnes": ["Michelle Torres Ponce"],
+      "descripcion": "Actores del género terror de las décadas de Old Hollywood"
     },
     {
       "id": "12",

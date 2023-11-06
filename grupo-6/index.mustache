@@ -1,0 +1,27 @@
+<div class="contenedor">
+  <h1>Le Jardin secret: Gontran Cherrier</h1>
+
+  <img src="6303770328ad2.jpg" alt="Macarons de varios colores" />
+
+  <p>
+    La sede de la Alienza Francesa microcentro, ha abierto una curiosa cafeteria
+    dentro de su sede. Con menú enfocado en la pasteleria, viennoiserie y
+    boulangerie frences, acompañadas de café de especialidad. Ambientada en los
+    jardines de invierno típicos de La Belle Époque, contiene vitrales, boiserie
+    y treillage, espejos grandes, piso de tesetas de gres, elementos de mármol
+    verde y beige, muebles de ratón, sillones, mesas de mármol, cortinas de
+    pana, murales de Sofía Willemois y grandes plantas.
+  </p>
+
+  <h2>{{ titulo }}</h2>
+
+  <ul>
+    {{#pasteleria}}
+    <li>
+      <a href="./detalle.html?id={{ id }}">{{ nombre }}</a>
+    </li>
+    {{/pasteleria}}
+  </ul>
+
+  <p><a href="../index.html">Volver</a></p>
+</div>
