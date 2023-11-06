@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Discografica</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="discografica"></div>
+    <script src="./mustache.js"></script>
+    <script src="./functions.js"></script>
+    <script>
+      (async function () {
+        const grupos = await cargarDatos("./grupos.json");
+        const discograficas = await cargarDatos("./discograficas.json");
+        discograficas.forEach(d => d.grupos = grupos.filter(g=>g.did === d.did));
+        const template = await cargarTemplate("./discografica.mustache");
+        const did = leerParametro("did");
+        const discografica = buscar(discograficas, "did", did);
+        montar(template, discografica, "discografica");
+      })();
+    </script>
+  </body>
+</html>

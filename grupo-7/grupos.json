@@ -1,0 +1,573 @@
+[
+  {
+    "gid": "g1",
+    "eid": "e1", 
+    "link wiki": "https://drama.fandom.com/es/wiki/Stray_Kids",
+    "link grupo": "https://straykids.jype.com/",
+    "imagen": "stray kids.webp",
+    "tamaño": "300",
+    "nombre grupo": "Stray Kids",
+    "descripcion grupo": "Su nombre significa ''Niños Perdidos'', Los mismos integrantes escogieron su nombre porque juntos están buscando su lugar en el mundo, luchando por todos sus sueños y metas.",
+    "musica": "skz.mp3",
+    "fecha de debut": "25 de marzo de 2018",
+    "subunidades": [
+      {
+        "nombre subunidad": "3RACHA",
+        "miembros subunidad": "Bang Chan, Changbin, Han"
+      }
+    ],
+    "miembros": [
+      {
+        "nombre miembros": "Bang Chan",
+        "posición": "Lider, Vocalista, Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "Lee Know",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Changbin",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Hyunjin",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Han",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Felix",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Seungmin",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "I.N",
+        "posición": "Vocalista y Bailarín"
+      }
+    ]
+  },
+  {
+    "gid": "g2",
+    "eid": "e1",
+    "link wiki": "https://drama.fandom.com/es/wiki/2PM",
+    "link grupo": "https://2pm.jype.com/",
+    "nombre grupo": "2PM",
+    "imagen": "2pm.gif",
+    "tamaño": "300",
+    "musica": "2pm.mp3",
+    "fecha de debut": "04 de septiembre de 2008",
+    "descripcion grupo": "El nombre hace referencia a la hora en la que hace más calor.",
+    "miembros": [
+      {
+        "nombre miembros": "Jun.K",
+        "posición": "Vocalista, Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "Nichkhun",
+        "posición": "Vocalista, Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "Taecyeon",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Wooyoung",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Junho",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Chansung",
+        "posición": "Rapero, Vocalista y Bailarín"
+      }
+    ]
+  },
+  {
+    "gid": "g3",
+    "eid": "e2",
+    "link wiki": "https://drama.fandom.com/es/wiki/EXO",
+    "link grupo": "https://www.smtown.com/artist/musician/86",
+    "nombre grupo": "EXO",
+    "imagen": "exo.webp",
+    "tamaño": "300",
+    "musica": "exo.mp3",
+    "fecha de debut": "08 de abril del 2012",
+    "descripcion grupo": "Es un nombre inspirado en EXOPLANET, que significa planeta fuera del sistema solar, e implícitamente lleva el significado de una nueva estrella de un mundo desconocido.",
+    "subunidades": [
+      {
+        "link subunidad": "https://www.smtown.com/artists/10043",
+        "página subunidad": "EXO-CBX"
+      },
+      {
+        "página subunidad": "EXO-SC",
+        "link subunidad": "https://www.smtown.com/artists/10710"}],
+    "miembros": [
+      {
+        "nombre miembros": "Suho",
+        "posición": "Lider, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Xiumin",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "D.O",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Chen",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Chanyeol",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Baehkyun",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Kai",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Sehun",
+        "posición": "Rapero y Bailarín"}]
+  },
+  {
+    "gid": "g4",
+    "eid": "e2",
+    "link wiki": "https://drama.fandom.com/es/wiki/SHINee",
+    "link grupo": "https://www.smtown.com/artist/musician/38",
+    "nombre grupo": "SHINee",
+    "imagen": "shinee.webp",
+    "tamaño": "300",
+    "musica": "shinee.mp3",
+    "fecha de debut": "25 de mayo del 2008",
+    "descripcion grupo": "El nombre del grupo 'SHINee' es una nueva palabra creada al combinar 'Shine' con la terminación 'ee' para dar este significado de personas que reciben y emanan luz.",
+    "miembros": [
+      {
+        "nombre miembros": "Onew",
+        "posición": "Lider, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jonghyun",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Key",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Minho",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Taemin",
+        "posición": "Vocalista y Bailarín"
+      }
+    ]
+  },
+  {
+    "gid": "g5",
+    "eid": "e2",
+    "link wiki": "https://drama.fandom.com/es/wiki/NCT_127",
+    "link grupo": "https://www.smtown.com/artist/musician/10033",
+    "nombre grupo": "NCT 127",
+    "imagen": "nct 127.webp",
+    "tamaño": "300",
+    "musica": "nct 127.mp3",
+    "fecha de debut": "07 de julio del 2016",
+    "descripcion grupo": "El número 127 en el nombre del equipo se refiere a la longitud de Seúl e implica que el equipo estará activo en escenarios de todo el mundo con sede en Seúl, el hogar del K-POP.",
+    "miembros": [
+      {
+        "nombre miembros": "Taeyong",
+        "posición": "Lider, Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Taeil",
+        "posición": "Vocalista"
+      },
+      {
+        "nombre miembros": "Johnny",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Yuta",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Doyoung",
+        "posición": "Vocalista"
+      },
+      {
+        "nombre miembros": "Jaehyun",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jungwoo",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Mark",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Haechan",
+        "posición": "Vocalista y Bailarín"
+      }
+    ]
+  },
+  {
+    "gid": "g6",
+    "eid": "e2",
+    "link wiki": "https://drama.fandom.com/es/wiki/NCT_DREAM",
+    "link grupo": "https://www.smtown.com/artist/musician/10037",
+    "nombre grupo": "NCT Dream",
+    "imagen": "nct dream.webp",
+    "tamaño": "300",
+    "musica": "nct dream.mp3",
+    "fecha de debut": "24 de agosto del 2016",
+    "descripcion grupo": "Al momento de su debut todos los miembros eran adolescentes, buscan dar un mensaje de esperanza y sueños tanto a los fans mayores como a los de su edad.",
+    "miembros": [
+      {
+        "nombre miembros": "Mark",
+        "posición": "Lider, Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Renjun",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jeno",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Haechan",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jaemin",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Chenle",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jisung",
+        "posición": "Rapero, Vocalista y Bailarín"
+      }
+    ]
+  },
+  {
+    "gid": "g7",
+    "eid": "e2",
+    "link wiki": "https://drama.fandom.com/es/wiki/WayV",
+    "link grupo": "https://www.smtown.com/artist/musician/10697",
+    "nombre grupo": "Way-V",
+    "imagen": "wayv.webp",
+    "tamaño": "300",
+    "musica": "wayv.mp3",
+    "fecha de debut": "17 de enero del 2019",
+    "descripcion grupo": "WayV son las siglas de 'We are your Vision', contiene el deseo de los miembros de convertirse en artistas de clase mundial en función de sus capacidades musicales.",
+    "miembros": [
+      {
+        "nombre miembros": "Kun",
+        "posición": "Lider, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Ten",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Winwin",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Xiaojun",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Hendery",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Yangyang",
+        "posición": "Rapero, Vocalista y Bailarín"
+      }]
+  },
+  {
+    "gid": "g8",
+    "eid": "e3",
+    "link wiki": "https://drama.fandom.com/es/wiki/BLACKPINK",
+    "link grupo": "https://www.ygfamily.com/artist/Main.asp?LANGDIV=E&ATYPE=2&PTYPE=&ARTIDX=70&PROIDX=&IDX=&page=",
+    "nombre grupo": "BLACKPINK",
+    "imagen": "blackpink.webp",
+    "tamaño": "300",
+    "musica": "blackpink.mp3",
+    "fecha de debut": "08 de agosto del 2016",
+    "descripcion grupo": "BLACKPINK quiere decir que ''lo lindo no lo es todo'', también simboliza que ellas son un equipo que engloba, no sólo la belleza, sino también un gran talento.",
+    "miembros": [
+      {
+        "nombre miembros": "Jisoo",
+        "posición": "Vocalista y Bailarina"
+      },
+      {
+        "nombre miembros": "Jennie",
+        "posición": "Vocalista, Rapera y Bailarina"
+      },
+      {
+        "nombre miembros": "Rosé",
+        "posición": "Vocalista y Bailarina"
+      },
+      {
+        "nombre miembros": "Lisa",
+        "posición": "Vocalista, Rapera y Bailarina"
+      }]
+  },
+  {
+    "gid": "g9",
+    "eid": "e4",
+    "did": "d1",
+    "link wiki": "https://drama.fandom.com/es/wiki/BTS",
+    "link grupo": "https://ibighit.com/bts/kor/",
+    "nombre grupo": "BTS",
+    "imagen": "bts.webp",
+    "tamaño": "300",
+    "musica": "bts.mp3",
+    "fecha de debut": "13 de junio del 2013",
+    "descripcion grupo": "Es un grupo que ha ganado reconocimiento por su música auténtica y autoproducida, actuaciones de primera categoría, y la forma en que interactúan con sus fans.",
+    "miembros": [
+      {
+        "nombre miembros": "RM",
+        "posición": "Lider, Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "Jin",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "J-Hope",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Suga",
+        "posición": "Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "Jimin",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "V",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jungkook",
+        "posición": "Rapero, Vocalista y Bailarín"
+      }
+    ]
+  },
+  {
+    "gid": "g10",
+    "eid": "e4",
+    "did": "d2",
+    "link wiki": "https://drama.fandom.com/es/wiki/ENHYPEN",
+    "link grupo": "https://beliftlab.com/artist/profile/ENHYPEN",
+    "nombre grupo": "ENHYPEN",
+    "imagen": "enhypen.webp",
+    "tamaño": "300",
+    "musica": "enhypen.mp3",
+    "fecha de debut": "30 de noviembre del 2020",
+    "descripcion grupo": "ENHYPEN significa que siete chicos diferentes se conectan para descubrirse y crecer juntos, también indica su ambicioso plan para conectar a la gente y al mundo a través de su música.",
+    "miembros": [
+      {
+        "nombre miembros": "Jungwon",
+        "posición": "Lider, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Heeseung",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jay",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jake",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Sunghoon",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Sunoo",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Niki",
+        "posición": "Vocalista y Bailarín"
+      }
+    ]
+  },
+  {
+    "gid": "g11",
+    "eid": "e4",
+    "did": "d3",
+    "link wiki": "https://drama.fandom.com/es/wiki/LE_SSERAFIM",
+    "link grupo": "https://sourcemusic.com/artist/profile/LE%20SSERAFIM",
+    "nombre grupo": "LE SSERAFIM",
+    "imagen": "lesserafim.webp",
+    "tamaño": "300",
+    "musica": "lesserafim.mp3",
+    "fecha de debut": "02 de mayo del 2022",
+    "descripcion grupo": "Su nombre está creado por el anagrama de 'I'm Fearless', e implica confianza en sí mismo y una fuerte voluntad de seguir adelante sin dejarse llevar por la mirada del mundo.",
+    "miembros": [
+      {
+        "nombre miembros": "Chaewon",
+        "posición": "Lider, Vocalista y Bailarina"
+      },
+      {
+        "nombre miembros": "Sakura",
+        "posición": "Vocalista y Bailarina"
+      },
+      {
+        "nombre miembros": "Yunjin",
+        "posición": "Vocalista y Bailarina"
+      },
+      {
+        "nombre miembros": "Kazuha",
+        "posición": "Vocalista, Rapera y Bailarina"
+      },
+      {
+        "nombre miembros": "Eunchae",
+        "posición": "Vocalista y Bailarina"
+      }
+    ]
+  },
+  {
+    "gid": "g12",
+    "eid": "e4",
+    "did": "d4",
+    "link wiki": "https://drama.fandom.com/es/wiki/SEVENTEEN",
+    "link grupo": "https://www.pledis.co.kr/html/artist/seventeen/ENG",
+    "nombre grupo": "SEVENTEEN",
+    "imagen": "seventeen.webp",
+    "tamaño": "300",
+    "musica": "seventeen.mp3",
+    "fecha de debut": "26 de mayo del 2015",
+    "descripcion grupo": "Seventeen hace referencia a los 13 miembros + 3 unidades + 1 grupo.",
+    "subunidades": [
+      {
+        "nombre subunidad": "Hiphop Team",
+        "miembros subunidad": "S.COUPS, Wonwoo, Mingyu, Vernon"
+      },
+      {
+        "nombre subunidad": "Vocal Team",
+        "miembros subunidad": "Woozi, Jeonghan, Joshua, DK, Seungkwan."
+      },
+      {
+        "nombre subunidad": "Performance Team",
+        "miembros subunidad": "Hoshi, Jun, THE8, Dino"
+      },
+      {
+        "link subunidad": "https://drama.fandom.com/es/wiki/BSS",
+        "página subunidad": "BSS (BooSeokSoon)"
+      }
+    ],
+    "miembros": [
+      {
+        "nombre miembros": "S.COUPS",
+        "posición": "Lider, Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "Jeonghan",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Joshua",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Jun",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Hoshi",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Wonwoo",
+        "posición": "Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "DK",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Mingyu",
+        "posición": "Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "THE8",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Seungkwan",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Vernon",
+        "posición": "Rapero y Bailarín"
+      },
+      {
+        "nombre miembros": "Dino",
+        "posición": "Vocalista y Bailarín"
+      }
+    ]
+  },
+  {
+    "gid": "g13",
+    "eid": "e4",
+    "did": "d1",
+    "link wiki": "https://drama.fandom.com/es/wiki/TXT",
+    "link grupo": "https://ibighit.com/txt/eng/",
+    "nombre grupo": "TOMORROW X TOGETHER",
+    "imagen": "txt.webp",
+    "tamaño": "300",
+    "musica": "txt.mp3",
+    "fecha de debut": "04 de marzo del 2019",
+    "descripcion grupo": "Con el mismo sueño de tener un futuro, significa que se encontraron sin pistas y diferentes entre sí, pero tienen los mismos sueños y continúan alcanzándolo juntos.",
+    "miembros": [
+      {
+        "nombre miembros": "Soobin",
+        "posición": "Lider, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Yeonjun",
+        "posición": "Rapero, Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Beomgyu",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Taehyun",
+        "posición": "Vocalista y Bailarín"
+      },
+      {
+        "nombre miembros": "Huening Kai",
+        "posición": "Rapero, Vocalista y Bailarín"
+      }
+    ]
+  }
+]

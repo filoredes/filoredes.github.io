@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Detalle</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="grupo"></div>
+    <script src="./mustache.js"></script>
+    <script src="./functions.js"></script>
+    <script>
+      (async function () {
+        const grupos = await cargarDatos("./grupos.json");
+        const template = await cargarTemplate("./grupo.mustache");
+        const gid = leerParametro("gid");
+        const grupo = {...buscar(grupos, "gid", gid)};
+        montar(template, grupo, "grupo");
+      })();
+    </script>
+  </body>
+</html>

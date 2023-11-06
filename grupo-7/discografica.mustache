@@ -1,0 +1,27 @@
+<div class="contenedorDiscografica">
+  {{#grupos.length}}
+  <h2>{{nombre disc}}</h2>
+  <img src="{{imagen disc}}" height="{{tamaño}}">
+  <p>{{descripcion disc}}</p>
+  <h2>Información detallada</h2>
+  <ul>
+    <li>
+      <p><strong>Nombre:</strong> {{nombre disc}}</p>
+    </li>
+    <li>
+      <p><strong>Año de fundación:</strong> {{año de fundación disc}}</p>
+    </li>
+  </ul>
+  {{#grupos.length}}
+  <h2>Artistas más reconocidos</h2>
+  {{/grupos.length}}
+  <ul>
+    {{#grupos}}
+    <li>
+      <a href="grupo.html?gid={{gid}}">{{nombre grupo}}</a>
+    </li>
+    {{/grupos}}
+  </ul>
+  {{/grupos.length}}
+  <a href="./empresa.html?eid={{eid}}">Volver</a>
+</div>

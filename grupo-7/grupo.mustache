@@ -1,0 +1,33 @@
+<div class="contenedorGrupo">
+  <h1>{{nombre grupo}}</h1>
+  <img src="{{imagen}}" height="{{tamaño}}">
+  <p>{{descripcion grupo}}</p>
+
+  <h2>Miembros:</h2>
+  <ul>
+    {{#miembros}}
+    <li>{{nombre miembros}} ({{posición}})</li>
+    {{/miembros}}
+  </ul>
+  {{#subunidades.length}}
+  <h2>Sub-unidades</h2>
+  <ul>
+    {{#subunidades}}
+    <li>{{nombre subunidad}}: {{miembros subunidad}} <a href="{{link subunidad}}">{{página subunidad}}</a></li>
+    {{/subunidades}}
+  </ul>
+  {{/subunidades.length}}
+  <h3><a href="{{link wiki}}">Sitio (no) oficial</a></h3>
+  <h3><a href="{{link grupo}}">Sitio oficial</a></h3>
+
+  {{#musica}} <audio controls autoplay loop>
+    <source src="{{musica}}" type="audio/mp3" />
+  </audio> {{/musica}}
+
+  {{#did}}
+  <a href="./discografica.html?did={{did}}">Volver</a>
+  {{/did}}
+  {{^did}}
+  <a href="./empresa.html?eid={{eid}}">Volver</a>
+  {{/did}}
+</div>

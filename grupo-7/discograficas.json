@@ -1,0 +1,38 @@
+[
+    {
+      "did": "d1",
+      "nombre disc": "BIGHIT MUSIC",
+      "eid": "e4",
+      "imagen disc": "bighit logo.png",
+      "tamaño": "150",
+      "descripcion disc": "Es un sello musical líder en la industria que sigue siendo pionero en nuevos caminos impulsados por una fuerte creencia en la música y el apoyo incesante de los fans.",
+      "año de fundación disc": "2005"
+    },
+    {
+      "did": "d2",
+      "nombre disc": "BELIFT Lab",
+      "eid": "e4",
+      "imagen disc": "belift logo.jpg",
+      "tamaño": "150",
+      "descripcion disc": "CJ ENM y Big Hit han establecido una empresa conjunta llamada Belift Lab para lograr su objetivo de introducir un nuevo grupo global de K-pop en 2020.",
+      "año de fundación disc": "2019"
+    },
+    {
+      "did": "d3",
+      "nombre disc": "SOURCE MUSIC",
+      "eid": "e4",
+      "imagen disc": "source logo.jpg",
+      "tamaño": "150",
+      "descripcion disc": "SOURCE MUSIC es una especialista de grupos de chicas, la discográfica se ha centrado en producir contenido de alta calidad que puede proporcionar una fuente de alegría en la vida.",
+      "año de fundación disc": "2019"
+    },
+    {
+      "did": "d4",
+      "nombre disc": "PLEDIS Entertainment",
+      "eid": "e4",
+      "imagen disc": "pledis logo.png",
+      "tamaño": "150",
+      "descripcion disc": "PLEDIS es una importante agencia discográfica y de entretenimiento integral en Corea cuyo nombre está inspirado en las Pléyades, un cúmulo de estrellas en la constelación de Tauro.",
+      "año de fundación disc": "2007"
+    }
+]

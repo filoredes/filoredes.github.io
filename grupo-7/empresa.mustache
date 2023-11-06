@@ -1,0 +1,45 @@
+<div class="contenedorEmpresa">
+  <a href="./index.html">Volver</a>
+  <h1>{{nombre empresa}}</h1>
+  <img src="{{imagen empresa}}" height="{{tamaño}}">
+  <p>{{descripcion empresa}}</p>
+  <h2>Información detallada</h2>
+  <ul>
+    <li>
+      <p><strong>Nombre:</strong> {{nombre empresa}}</p>
+    </li>
+    <li>
+      <p><strong>Fundador:</strong> {{fundador}}</p>
+    </li>
+    <li>
+      <p><strong>Año de fundación:</strong> {{año de fundación}}</p>
+    </li>
+  </ul>
+
+  {{#grupos.length}}
+  <h2>Artistas más reconocidos</h2>
+  <ul>
+    {{#grupos}}
+    <li>
+      <a href="grupo.html?gid={{gid}}">{{nombre grupo}}</a>
+    </li>
+    {{/grupos}}
+  </ul>
+  {{/grupos.length}}
+
+
+  {{#discograficas.length}}
+  <h2>Discograficas más conocidas</h2>
+  <ul>
+    {{#discograficas}}
+    <li>
+      <a href="discografica.html?did={{did}}">{{nombre disc}}</a>
+    </li>
+    {{/discograficas}}
+  </ul>
+  {{/discograficas.length}}
+
+
+  <h3><a href="{{link empresa}}">Sitio oficial</a></h3>
+
+</div>

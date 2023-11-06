@@ -1,0 +1,42 @@
+[
+  {
+    "eid": "e1",
+    "nombre empresa": "JYP",
+    "imagen empresa": "jyp logo.png",
+    "tamaño": "150",
+    "descripcion empresa": "''Leader In Entertainment'' Este es el valor y el objetivo que JYP Entertainment ha estado persiguiendo. Ha estado haciendo todo lo posible para convertirse en una empresa que lidere los cambios en la industria del entretenimiento con este principio.",
+    "fundador": "J.Y Park",
+    "año de fundación": "1997",
+    "link empresa": "https://www.jype.com/en"
+  },
+  {
+    "eid": "e2",
+    "nombre empresa": "SM Entertainment",
+    "imagen empresa": "SM logo.png",
+    "tamaño": "150",
+    "descripcion empresa": "La primera empresa del sector en introducir sistemas de casting, entrenamiento de idols y sistemas de producción y gestión.",
+    "fundador": "Lee So Man",
+    "año de fundación": "1995",
+    "link empresa": "https://www.smentertainment.com/"
+  },
+  {
+    "eid": "e3",
+    "nombre empresa": "YG Entertainment",
+    "imagen empresa": "yg logo.png",
+    "tamaño": "150",
+    "descripcion empresa": "La empresa actúa como una discográfica, agencia de talentos, marca de ropa, marca de cosméticos, empresa de gestión de eventos y producción de conciertos.",
+    "fundador": "Yang Hyunsuk",
+    "año de fundación": "1996",
+    "link empresa": "https://www.ygfamily.com/index.asp?LANGDIV=E&ATYPE=&PTYPE=&ARTIDX=&PROIDX=&IDX=&page="
+  },
+  {
+    "eid": "e4",
+    "nombre empresa": "HYBE",
+    "imagen empresa": "HYBE logo.jpg",
+    "tamaño": "150",
+    "descripcion empresa": "La empresa opera como sello discográfico, agencia de talentos, compañía de producción musical, gestión de eventos, producción de conciertos, y como editorial de música, además posee múltiples sellos discográficos. Previo a un cambio de nombre era conocida como Big Hit Entertainment.",
+    "fundador": "Bang Sihyuk",
+    "año de fundación": "2005",
+    "link empresa": "https://hybecorp.com/eng/main"
+  }
+]

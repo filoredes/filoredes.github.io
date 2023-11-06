@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Empresa</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="empresa"></div>
+    <script src="./mustache.js"></script>
+    <script src="./functions.js"></script>
+    <script>
+      (async function () {
+        const empresas = await cargarDatos("./empresas.json");
+        const grupos = await cargarDatos("./grupos.json");
+        const discograficas = await cargarDatos("./discograficas.json");
+        empresas.forEach(e => e.grupos = grupos.filter(g=>g.eid === e.eid && !g.did));
+        empresas.forEach(e => e.discograficas = discograficas.filter(d=>d.eid === e.eid));
+        const template = await cargarTemplate("./empresa.mustache");
+        const eid = leerParametro("eid");
+        const empresa = buscar(empresas, "eid", eid);
+        montar(template, empresa, "empresa");
+        window.empresas = empresas;
+      })();
+    </script>
+  </body>
+</html>

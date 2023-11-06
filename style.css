@@ -12,12 +12,12 @@ a.link-principal {
     margin: 16px;
     padding: 0;
     box-shadow: 0 8px 4px rgba(0, 0, 0, 0.2);
-    cursor: pointer; /* Change cursor to a pointer on hover for interactivity indication */
-    transition: box-shadow 0.3s ease-in-out; /* Add a transition for smooth hover effect */
+    cursor: pointer;
+    transition: box-shadow 0.3s ease-in-out;
 }
 a.link-principal:hover {
-    box-shadow: 0 10px 8px 8px rgba(0, 0, 0, 0.3); /* Modify the box-shadow on hover */
-    cursor: pointer; /* Change cursor to a pointer on hover for interactivity indication */
+    box-shadow: 0 10px 8px 8px rgba(0, 0, 0, 0.3); 
+    cursor: pointer;
 }
 
 
